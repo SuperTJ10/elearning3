@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Maslow’s_hierarchy_of_needs_C" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Maslow’s hierarchy of needs</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Maslow’s_hierarchy_of_needs_ORG">
+    <organization identifier="Maslow’s_hierarchy_of_needs_ORG">
+      <title>Maslow’s hierarchy of needs</title>
+      <item identifier="Maslow’s_hierarchy_of_needs_S_SCO" isvisible="true" identifierref="_Maslow’s_hierarchy_of_needs_C_RES">
+        <title>Maslow’s hierarchy of needs</title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Maslow’s_hierarchy_of_needs_C_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/628qAnxgqwL_DX2200_DY2200.swf" />
+      <file href="mobile/628qAnxgqwL_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/6RijOwHrHgv_DX400_DY400.swf" />
+      <file href="mobile/6RijOwHrHgv_DX400_DY400_CX300_CY300.png" />
+      <file href="story_content/5VmeR28JxZt_DX424_DY424.swf" />
+      <file href="mobile/5VmeR28JxZt_DX424_DY424_CX318_CY99.png" />
+      <file href="story_content/6YIgy4sLgbs_DX2200_DY2200.swf" />
+      <file href="mobile/6YIgy4sLgbs_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/6LG5FXaRriP_DX996_DY996.swf" />
+      <file href="mobile/6LG5FXaRriP_DX996_DY996_CX746_CY717.png" />
+      <file href="story_content/txt__default_6kY7SdyREIS.swf" />
+      <file href="story_content/txt__default_6TCFRSMETr7.swf" />
+      <file href="story_content/txt__default_69rMZBaTjuG.swf" />
+      <file href="story_content/txt__default_5jMkPFRVK68.swf" />
+      <file href="story_content/txt__default_5vgzFuysKLw.swf" />
+      <file href="story_content/txt__default_6KTYmDsVPXw.swf" />
+      <file href="story_content/txt__default_5yrwNBuZ0PA.swf" />
+      <file href="story_content/txt__default_6MuUgyFhN1j.swf" />
+      <file href="story_content/txt__default_5aYL141ymJp.swf" />
+      <file href="story_content/5VkUo9KkSl4_DX2200_DY2200.swf" />
+      <file href="mobile/5VkUo9KkSl4_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/5yX6sE4LOn2_DX2200_DY2200.swf" />
+      <file href="mobile/5yX6sE4LOn2_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/5Uuoz7Kdxsm_DX2200_DY2200.swf" />
+      <file href="mobile/5Uuoz7Kdxsm_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/5uVAHN7K501_P_0_0_1373_655_DX2220_DY2220.swf" />
+      <file href="mobile/5uVAHN7K501_P_0_0_1373_655_DX2220_DY2220_CX1374_CY656.png" />
+      <file href="story_content/5ycThE5Boct_DX2200_DY2200.swf" />
+      <file href="mobile/5ycThE5Boct_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/6R8aysuNf4y_DX2200_DY2200.swf" />
+      <file href="mobile/6R8aysuNf4y_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/5lQ2EilinK4_DX2200_DY2200.swf" />
+      <file href="mobile/5lQ2EilinK4_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/6JahcBIXx56_DX2200_DY2200.swf" />
+      <file href="mobile/6JahcBIXx56_DX2200_DY2200_CX1376_CY656.png" />
+      <file href="story_content/6LG5FXaRriP_DX994_DY994.swf" />
+      <file href="mobile/6LG5FXaRriP_DX994_DY994_CX604_CY580.png" />
+      <file href="story_content/6mcIl9ahM0b_P_126_0_1007_813_DX1122_DY1122.swf" />
+      <file href="mobile/6mcIl9ahM0b_P_126_0_1007_813_DX1122_DY1122_CX774_CY625.png" />
+      <file href="story_content/65dB7p7341P_P_0_54_246_187_DX492_DY492.swf" />
+      <file href="mobile/65dB7p7341P_P_0_54_246_187_DX492_DY492_CX246_CY188.png" />
+      <file href="mobile/6LG5FXaRriP_DX994_DY994_CX528_CY507.png" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.json" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6kY7SdyREIS.png" />
+      <file href="mobile/txt__default_6TCFRSMETr7.png" />
+      <file href="mobile/txt__default_69rMZBaTjuG.png" />
+      <file href="mobile/txt__default_5jMkPFRVK68.png" />
+      <file href="mobile/txt__default_5vgzFuysKLw.png" />
+      <file href="mobile/txt__default_6KTYmDsVPXw.png" />
+      <file href="mobile/txt__default_5yrwNBuZ0PA.png" />
+      <file href="mobile/txt__default_6MuUgyFhN1j.png" />
+      <file href="mobile/txt__default_5aYL141ymJp.png" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6Yk82s7SJxJ.swf" />
+      <file href="story_content/slides/61OpQt3b7M2.swf" />
+      <file href="story_content/slides/5fzcmh7Yeim.swf" />
+      <file href="story_content/slides/6lEgtfFRpNR.swf" />
+      <file href="story_content/slides/60YGvY5UlHX.swf" />
+      <file href="story_content/slides/5efKKktleMY.swf" />
+      <file href="story_content/slides/61Nhe7RI3jo.swf" />
+      <file href="story_content/slides/5ZrgjzgmmTF.swf" />
+      <file href="story_content/slides/5VcSrWm5KDT.swf" />
+      <file href="story_content/slides/5yMadAhYkjZ.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5efKKktleMY.js" />
+      <file href="html5/data/js/5fzcmh7Yeim.js" />
+      <file href="html5/data/js/5VcSrWm5KDT.js" />
+      <file href="html5/data/js/5yMadAhYkjZ.js" />
+      <file href="html5/data/js/5ZrgjzgmmTF.js" />
+      <file href="html5/data/js/60YGvY5UlHX.js" />
+      <file href="html5/data/js/61Nhe7RI3jo.js" />
+      <file href="html5/data/js/61OpQt3b7M2.js" />
+      <file href="html5/data/js/6lEgtfFRpNR.js" />
+      <file href="html5/data/js/6Yk82s7SJxJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/goodbyeCY.HTML" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
